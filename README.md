@@ -22,6 +22,8 @@
 ## Проекты
 
 ### [Salon Bot](https://github.com/pavel-ai-dev/salon-bot)
+[![tests](https://github.com/pavel-ai-dev/salon-bot/actions/workflows/tests.yml/badge.svg)](https://github.com/pavel-ai-dev/salon-bot/actions/workflows/tests.yml)
+
 Telegram-бот для мастеров маникюра и салонов красоты. **Работает в продакшне.**
 
 - Онлайн-запись с выбором услуги, даты и времени
