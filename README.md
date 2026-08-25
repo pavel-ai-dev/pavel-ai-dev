@@ -14,7 +14,6 @@
 **Инфраструктура**
 - Linux VPS: настройка, деплой, мониторинг сервисов
 - Docker, Nginx, systemd — продакшн с нуля
-- Self-hosted VPN (Xray/Marzban)
 - Автоматические бэкапы, cron-задачи
 
 ---
